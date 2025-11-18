@@ -1,5 +1,5 @@
 
-## i’m working on aurora-stage, a single-file roblox lightshow that bends the sky to your playlist.
+## making a single-file roblox lightshow that bends the sky to your playlist
 
 <!--
 **fjordius/fjordius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
