@@ -18,4 +18,4 @@ I mainly code in **Lua** and **Rust**, focusing on writing efficient, powerful, 
 ## 📫 Connect with me
 
 Feel free to reach out if you want to chat or collaborate!  
-**Discord:** [skibidi#3617](https://discordapp.com/users/925049579077001217)
+**Discord:** [fjord](https://discordapp.com/users/925049579077001217)
