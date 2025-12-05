@@ -2,7 +2,7 @@
 
 I mainly code in **Lua** and **Rust**, focusing on writing efficient, powerful, and clean code. Python is a cool language I enjoy experimenting with for creative projects and quick prototyping. 🌌
 
-## 🔥 What I’m passionate about
+## 🔥 What I like
 
 - Writing high-performance code with simplicity and style  
 - Exploring unique programming challenges like terminal animations and simulations  
