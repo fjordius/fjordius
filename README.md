@@ -1,6 +1,6 @@
 # Hey, I’m Fjord 
 
-I mainly code in **Lua** and **Rust**, focusing on writing efficient, powerful, and clean code. Python is a cool language I enjoy experimenting with for creative projects and quick prototyping. 
+I mainly code in **Lua** and **Rust**, focusing on writing efficient, powerful, and clean code. Python is a cool language I enjoy experimenting with for creative projects and quick prototyping. Im also currently learning C++ cuz rust is boring asf
 
 ##  What I like
 
